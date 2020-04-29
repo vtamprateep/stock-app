@@ -33,3 +33,9 @@ firestore.indexes
 firestore.rules
 index
 storage.rules
+database.rules.json
+firebase.json
+firestore.indexes.json
+package-lock.json
+package.json
+
