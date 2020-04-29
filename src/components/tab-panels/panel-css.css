@@ -1,0 +1,23 @@
+.Panel {
+    padding: 2%;
+    justify-content: "center";
+}
+
+.Panel-Item {
+    padding: 2%;
+}
+
+.Items {
+    margin-bottom: 5%;
+    flex-direction: column;
+    padding: 2%;
+}
+
+.Items-Desc {
+    width: 992px;
+    display: flex;
+}
+
+.Items-Profile {
+    width: 300px
+}
