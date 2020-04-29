@@ -36,6 +36,4 @@ storage.rules
 database.rules.json
 firebase.json
 firestore.indexes.json
-package-lock.json
-package.json
 
